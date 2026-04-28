@@ -80,13 +80,13 @@ plt.grid()
 
 plt.tight_layout()
 plt.show()
+
 ```
+
+
 # Output Waveform
-
-<img width="1189" height="989" alt="image" src="https://github.com/user-attachments/assets/5593371b-c887-439d-8bf7-7f13437e67fa" />
-
+<img width="620" height="475" alt="image" src="https://github.com/user-attachments/assets/abd22e8c-8049-4ff0-8786-74a3c66d7cdc" />
 
 # Results
 
 Thus, the python program for ideal sampling, natural sampling and flat-top sampling has been executed and verified successfully.
-
